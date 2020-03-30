@@ -1,0 +1,34 @@
+{
+	"id": "c9472d97-e53e-4f05-8362-3971b18e3209",
+	"name": "TodoistVariablesProd",
+	"values": [
+		{
+			"key": "tokenValue",
+			"value": "aa3c592e941acd51d712a66de2fff036b6173adb",
+			"enabled": true
+		},
+		{
+			"key": "uuidTask1",
+			"value": "12345123455432154321",
+			"enabled": true
+		},
+		{
+			"key": "QABuddiesProjectID",
+			"value": "2231042169",
+			"enabled": true
+		},
+		{
+			"key": "CurrentProjectID",
+			"value": "2232063158",
+			"enabled": true
+		},
+		{
+			"key": "CurrentTaskID",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-03-26T14:43:45.964Z",
+	"_postman_exported_using": "Postman/7.20.0"
+}
