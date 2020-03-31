@@ -1,0 +1,15 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "my test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "author": "alberto.gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
